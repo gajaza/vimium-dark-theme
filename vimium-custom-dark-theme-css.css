@@ -16,13 +16,11 @@
   --selected-bg: #202023;
   --main-fg: #5BA1F8; 
   --accent-fg: #F29A4A;
-/* Vomnibar will appear with dark grey background with blue and white text */
   
 /* HINTS */
   --hints-bg: #FFD752;
   --hints-border: #F4CA46;
   --hints-main-fg: #000000;
-/* Linkhints will appear with yellow background and black bold text */
 
 }
 
@@ -137,7 +135,8 @@
 }
 
 #vomnibar li .vomnibarTitle .vomnibarMatch {
-  color: var(--main-fg);
+  color: var(--accent-fg);
+  font-weight: bold;  
 }
 
 #vomnibar li.vomnibarSelected {
