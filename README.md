@@ -14,7 +14,7 @@ You can install [Vimium](https://github.com/philc/vimium) from your respective b
 ---
 ## Customising Your Vimium's CSS
 
-Copy the code in the [CSS file](https://github.com/ghzliahlam/vimium-custom-dark-theme/blob/main/vimium-custom-dark-theme-css.css) into 'CSS for Vimium UI' inside 'Vimium Options' in your browser's add-ons settings:
+Copy the code in the [CSS file](https://github.com/ghzliahlam/vimium-custom-dark-theme/blob/main/vimium-custom-dark-theme.css) into 'CSS for Vimium UI' inside 'Vimium Options' in your browser's add-ons settings:
 
 - Google Chrome: chrome://extensions/
 - Firefox: about:addons
