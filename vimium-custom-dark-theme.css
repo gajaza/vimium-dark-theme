@@ -165,6 +165,14 @@
     border-radius: 3px;
 }
 
+#vomnibar li.vomnibarSelected .vomnibarUrl { /* Changes '.vomnibarURL' to '--fg-match' when selected */
+    color: var(--fg-match);
+}
+
+#vomnibar li.vomnibarSelected .vomnibarMatch {  /* Changes '.vomnibarMatch' to '--fg' when selected */
+    color: var(--fg);
+}
+
 /* -------- HUD -------- */
 div.vimiumHUD {
   background: var(--bg);
