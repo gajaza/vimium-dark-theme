@@ -26,12 +26,12 @@ Note that you have to reload the page for the custom CSS to take effect.
 
 ### Link Hints
 
-<img width="1515" alt="screenshot-link-hints" src="https://user-images.githubusercontent.com/52131706/103002449-888cb880-4561-11eb-80ac-42d713ce00be.png">
+<img width="1378" alt="screenshot-link-hints" src="https://user-images.githubusercontent.com/52131706/103149575-4780e800-479d-11eb-9fb0-30c18f6bfdd5.png">
 
 ### Vomnibar
 
-<img width="1515" alt="screenshot-vomnibar" src="https://user-images.githubusercontent.com/52131706/103002507-9d694c00-4561-11eb-800f-c7b6c516dfed.png">
+<img width="1378" alt="screenshot-vomnibar" src="https://user-images.githubusercontent.com/52131706/103149582-5c5d7b80-479d-11eb-8ec8-f0f3a1815b20.png">
 
 ### Heads Up Display
 
-<img width="1515" alt="screenshot-heads-up-display" src="https://user-images.githubusercontent.com/52131706/103002530-a78b4a80-4561-11eb-9302-93f9b29c645c.png">
+<img width="1378" alt="screenshot-heads-up-display" src="https://user-images.githubusercontent.com/52131706/103149591-67b0a700-479d-11eb-8121-cba4c8feda8a.png">
