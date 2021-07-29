@@ -1,4 +1,4 @@
-# vimium-custom-dark-theme
+# Vimium Dark Theme
 A custom dark theme for the Vimium browser add-on, with code based on [Foldex/vimium-dark-themes](https://github.com/Foldex/vimium-dark-themes). For more custom themes, visit [Vimium's GitHub wiki](https://github.com/philc/vimium/wiki/Theme) on themes. Designed to closely resemble Firefox's user interface.
 
 ## Installing Vimium
