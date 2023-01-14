@@ -198,3 +198,48 @@ div.vimiumHUD .vimiumHUDSearchArea {
     background-color: transparent;
     padding: 6px;
 }
+
+/* -------- HELP DIALOG -------- */
+div#vimiumHelpDialog {
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--bg-searcharea);
+  font-family: var(--font);
+  font-size: var(--font-size);
+}
+
+span#vimiumTitle {
+  color: var(--fg);
+}
+
+a:link.vimiumHelDialogLink, 
+a:visited.vimiumHelDialogLink, 
+a:hover.vimiumHelDialogLink, 
+a:active.vimiumHelDialogLink,
+a#toggleAdvancedCommands {
+  color: var(--fg-url);
+  font-family: var(--font);
+  font-size: var(--font-size);
+}
+
+span.vimiumHelpDialogKey {
+  background-color: var(--bg-hints);
+  border: 1px solid var(--border-hints);
+  box-shadow: var(--shadow);
+  padding: 2px 3px;
+  color: var(--fg-hints);
+  font-family: var(--font);
+  font-size: var(--font-size-hints);
+  font-weight: var(--font-weight-bold);
+  text-shadow: none;
+}
+
+td.vimiumHelpSectionTitle, td.vimiumHelpDescription {
+  color: var(--fg);
+  font-family: var(--font);
+}
+
+div.vimiumColumn {
+  color: var(--fg);
+  font-family: var(--font);
+}
